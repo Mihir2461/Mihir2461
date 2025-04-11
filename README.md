@@ -26,8 +26,8 @@
 > Results-driven Java Developer with proven success improving web performance by 20% and boosting user engagement by 40%. Specializes in building scalable, user-centric applications using Spring Boot, Hibernate, and RESTful APIs. Combines deep expertise in backend architecture, database optimization, and AI integration to deliver responsive solutions.
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mihirsomavanshi&show_icons=true&count_private=true&hide_border=true&title_color=4A6FA5&icon_color=4A6FA5&text_color=333333&bg_color=ffffff" width="49%" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mihirsomavanshi&hide_border=true&stroke=4A6FA5&ring=4A6FA5&fire=166d3b&currStreakNum=333333&sideNums=4A6FA5&currStreakLabel=166d3b&sideLabels=4A6FA5&dates=888888" width="49%" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Mihir2461&show_icons=true&count_private=true&hide_border=true&title_color=4A6FA5&icon_color=4A6FA5&text_color=333333&bg_color=ffffff" width="49%" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mihir2461&hide_border=true&stroke=4A6FA5&ring=4A6FA5&fire=166d3b&currStreakNum=333333&sideNums=4A6FA5&currStreakLabel=166d3b&sideLabels=4A6FA5&dates=888888" width="49%" alt="GitHub Streak"/>
 </div>
 
 ## Tech Stack
