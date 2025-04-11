@@ -193,7 +193,9 @@ public class DevelopmentPhilosophy {
 ```
 
 ## GitHub Activity
-
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mihir2461&custom_title=Mihir's%20Contribution%20Graph&hide_border=true&theme=github-light&bg_color=ffffff&color=4A6FA5&line=166d3b&point=4A6FA5" width="95%" alt="Activity Graph"/>
+</div>
 
 
 ## Currently Learning
