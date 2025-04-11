@@ -6,13 +6,13 @@
   <a href="mailto:mirvansh18@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-mirvansh18%40gmail.com-d93025?style=for-the-badge&logo=gmail&logoColor=white&labelColor=d93025"/>
   </a>
-  <a href="https://github.com/yourusername">
+  <a href="https://github.com/Mihir2461">
     <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717"/>
   </a>
   <a href="tel:+917887617100">
     <img src="https://img.shields.io/badge/Contact-+91%207887617100-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=25D366"/>
   </a>
-  <a href="https://your-portfolio.com">
+  <a href="[https://your-portfolio.com](https://mihirswebdev.framer.website/)">
     <img src="https://img.shields.io/badge/Portfolio-Website-4A6FA5?style=for-the-badge&logo=safari&logoColor=white&labelColor=4A6FA5"/>
   </a>
 </p>
