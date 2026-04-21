@@ -4,12 +4,12 @@
 
 <p>
 <a href="mailto:mirvansh18@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/mihirsomavanshi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/mihirsomavanshi"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/mihirsomawanshi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/mihirsomawanshi"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="tel:+917887617100"><img src="https://img.shields.io/badge/Call-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=mihirsomavanshi&style=for-the-badge&color=7c3aed"/>
+<img src="https://komarev.com/ghpvc/?username=mihirsomawanshi&style=for-the-badge&color=7c3aed"/>
 
 </div>
 
